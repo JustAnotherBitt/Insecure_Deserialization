@@ -52,9 +52,8 @@ The default payload executes the `whoami` command. To change the command:
 ## Example of use via terminal in kali linux (in this case, without venv):
 
 <div align="center">
-  <img src="[URL_DA_IMAGEM](https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc)" width="300">
+  <img src="https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc" width="300">
 </div>
-
 
 
 ## **Warnings**
