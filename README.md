@@ -55,7 +55,7 @@ The default payload executes the `whoami` command. To change the command:
   <img src="https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc">
 </div>
 
-## Example output in pycharm (with venv activated):
+## Example output in PyCharm Community Edition (with venv activated):
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3a453f5d-11c9-42d5-b724-83ab5154dac2">
