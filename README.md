@@ -55,6 +55,7 @@ The default payload executes the `whoami` command. To change the command:
   <img src="https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc">
 </div>
 
+---
 
 ## **Warnings**
 - **Educational Purposes Only**: This program is intended to teach the concept of insecure deserialization and should not be used for malicious purposes.
@@ -88,10 +89,12 @@ python -m venv venv
 Activate the virtual environment based on your operating system:
 
 - **On Windows**:
+  
   ```
   venv\Scripts\activate
   ```
 - **On Linux/MacOS**:
+  
   ```
   source venv/bin/activate
   ```
@@ -99,7 +102,7 @@ Activate the virtual environment based on your operating system:
 ### **3. Deactivate the Virtual Environment**
 When you're done working on the project, deactivate the virtual environment by running:
 
-```bash
+```
 deactivate
 ```
 
