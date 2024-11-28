@@ -65,8 +65,7 @@ The default payload executes the `whoami` command. To change the command:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1ac1067e-df3e-4569-bddb-66cc25b76e23">
-</div>
-</n>
+</div> <br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/df18da93-c6ba-4737-a257-596d1f9abf6b">
